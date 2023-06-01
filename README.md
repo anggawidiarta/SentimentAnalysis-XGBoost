@@ -125,10 +125,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
   - [x] Tokenizing
   - [x] Stopwords Removal
   - [x] Stemming
-  - [ ] Term Weighting
-- [ ] Modeling
-  - [ ] Training
-  - [ ] Testing
+  - [x] Term Weighting
+- [x] Modeling
+  - [x] Training
+  - [x] Testing
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
