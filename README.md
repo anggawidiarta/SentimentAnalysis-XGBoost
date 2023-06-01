@@ -129,6 +129,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Modeling
   - [x] Training
   - [x] Testing
+        <br></br>
+- [x] Text Augmentation Suppose the Dataset is Unbalanced
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
